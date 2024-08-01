@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation-RAG-pipeline-in-detail-
+# Retrieval Augmented Generation (RAG) pipeline in details
 Understanding Retrieval Augmented Generation (RAG) pipeline for LLMs and Multi-modal AI.
 
 Due to security/privacy concerns over using Chatmodels on sensitive datas, It is not recommended to train the model using private sensitive datas.
