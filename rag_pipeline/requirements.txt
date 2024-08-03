@@ -6,3 +6,4 @@ PyPDF2
 pypdf
 langchain-community
 chromadb
+sentence-transformers
